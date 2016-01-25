@@ -72,11 +72,11 @@ close2.onclick=function () {
      setTimeout(function(){su_view2.style.display="none";},10000);
   }
 
- var button0x = document.getElementById('outbutton');
-    button0x.onmouseover = function(){
-      button0x.innerHTML="取消关注";
-      button0x.id="outbuttonx";
-    }
+ //var button0x = document.getElementById('outbutton');
+ //   button0x.onmouseover = function(){
+ //     button0x.innerHTML="取消关注";
+ //     button0x.id="outbuttonx";
+ //   }
 
 
    //字数统计
@@ -101,11 +101,6 @@ close2.onclick=function () {
       counter.style.color="red";
   
      };
-
-     
-     
-
-
 
      if (numx>20) {
       counterx.style.color="grey";
