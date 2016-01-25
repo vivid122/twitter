@@ -137,7 +137,7 @@ textarea {
   height: 20px;
   width: 16px;
   outline: none;
-  background: url(F:/test/twitter/img/search.jpg) no-repeat;
+  background: url(http://115.28.20.106/search.jpg) no-repeat;
   border: 0;
 }
 
@@ -392,7 +392,7 @@ div[class^="m-"]:hover .out-view-3 {
 }
 
 .camera {
-  background: url(F:/test/twitter/img/camer.jpg);
+  background: url(http://115.28.20.106/camer.jpg);
   display: inline-block;
   width: 19px;
   height: 16px;
@@ -559,37 +559,37 @@ div[class^="m-"]:hover .out-view-3 {
 .reply {
   width: 17px;
   height: 12px;
-  background: url(F:/test/twitter/img/reply.png);
+  background: url(http://115.28.20.106/reply.png);
 }
 .reply:hover {
-  background: url(F:/test/twitter/img/replya.png);
+  background: url(http://115.28.20.106/replya.png);
 }
 
 .tran {
   width: 21px;
   height: 14px;
-  background: url(F:/test/twitter/img/repost.png);
+  background: url(http://115.28.20.106/repost.png);
 }
 .tran:hover {
-  background: url(F:/test/twitter/img/reposta.png);
+  background: url(http://115.28.20.106/reposta.png);
 }
 
 .heart {
   width: 16px;
   height: 14px;
-  background: url(F:/test/twitter/img/heart.png);
+  background: url(http://115.28.20.106/heart.png);
 }
 .heart:hover {
-  background: url(F:/test/twitter/img/hearta.png) no-repeat;
+  background: url(http://115.28.20.106/hearta.png) no-repeat;
 }
 
 .more {
   width: 21px;
   height: 7px;
-  background: url(F:/test/twitter/img/more.png);
+  background: url(http://115.28.20.106/more.png);
 }
 .more:hover {
-  background: url(F:/test/twitter/img/morea.png) no-repeat;
+  background: url(http://115.28.20.106/morea.png) no-repeat;
 }
 
 .right {
@@ -672,7 +672,7 @@ div[class^="m-"]:hover .out-view-3 {
 }
 
 .close-b {
-  background: url(F:/test/twitter/img/close.jpg);
+  background: url(http://115.28.20.106/close.jpg);
   width: 12px;
   height: 12px;
   border: 0;
